@@ -1,0 +1,25 @@
+{
+  "name": "reactbasics",
+  "version": "1.0.0",
+  "description": "practise",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lingesh1776/practicingJS.git"
+  },
+  "keywords": [
+    "basics"
+  ],
+  "author": "li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lingesh1776/practicingJS/issues"
+  },
+  "homepage": "https://github.com/Lingesh1776/practicingJS#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
