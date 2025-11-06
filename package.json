@@ -2,7 +2,6 @@
   "name": "reactbasics",
   "version": "1.0.0",
   "description": "practise",
-  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
@@ -21,5 +20,9 @@
   "homepage": "https://github.com/Lingesh1776/practicingJS#readme",
   "devDependencies": {
     "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
   }
 }
